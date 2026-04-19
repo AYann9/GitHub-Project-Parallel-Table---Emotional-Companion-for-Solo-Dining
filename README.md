@@ -1,0 +1,1 @@
+# GitHub-Project-Parallel-Table---Emotional-Companion-for-Solo-Dining
