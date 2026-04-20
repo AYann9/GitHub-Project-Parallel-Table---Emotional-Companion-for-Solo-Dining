@@ -1,4 +1,4 @@
-# GitHub Project: Parallel Table - Emotional Companion for Solo Dining
+# Parallel Table - Emotional Companion for Solo Dining
 ## Project Info
 - **Project Name**: Parallel Table
 - **Full Name**: The Invisible Parallel Table – Emotional Compensation System for Solo Dining
